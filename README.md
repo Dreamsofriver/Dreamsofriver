@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Machine Learning
+- 🤔 I’m looking for help with lunix 
+- 💬 Ask me about the Game of Go 
+- ⚡ Fun fact: github can also be played like installgram
+
 
 <!--
 **Dreamsofriver/Dreamsofriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
