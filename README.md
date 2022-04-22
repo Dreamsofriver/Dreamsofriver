@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on data mining
 - 🤔 I’m looking for help with python coding skills
 - 💬 Ask me about the Game of Go 
-- ⚡ Fun fact: github
+- ⚡ Fun fact: github inspires me to create some poems
 
 
 <!--
