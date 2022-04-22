@@ -1,8 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m current working on seqential prediction & data analysis projects
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with lunix 
+- 👯 I’m looking to collaborate on data mining
+- 🤔 I’m looking for help with python coding skills
 - 💬 Ask me about the Game of Go 
-- ⚡ Fun fact: github can also be played like installgram
+- ⚡ Fun fact: github
 
 
 <!--
